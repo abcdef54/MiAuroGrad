@@ -1,7 +1,7 @@
 # MiAuroGrad
 
 A PyTorch-like automatic differentiation engine implemented from scratch in Python using NumPy.
-Inspired by Anrej Karpathy's micrograd [github.com/](https://github.com/karpathy/micrograd).
+Inspired by [Andrej Karpathy's micrograd](https://github.com/karpathy/micrograd).
 
 ## Features
 
